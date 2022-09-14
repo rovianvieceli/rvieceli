@@ -2,8 +2,6 @@
 
 Sou Rovian e sou desenvolvedor aplicações ‘web’ com mais de 10 anos de experiência.
 
-<img src="developer.gif" alt="developer" style="float: right; max-height: 180px;"/>
-
 * Atualmente trabalho com Shell, PHP, CSS, HTML, Javascript, VueJs, Mysql and PostgreSQL. Aprendendo novas
   tecnologias de desenvolvimento para soluções.
 * Estudando Go e melhorando o meu inglês, além de habilidades com NodeJS and Express para API's.
@@ -46,9 +44,13 @@ Tecnologias
 
 ### Github
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=rovianvieceli&theme=prussian&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rovianvieceli&theme=prussian&&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&layout=compact&langs_count=8)
-![Commits](https://github-readme-streak-stats.herokuapp.com?user=rovianvieceli&theme=prussian&border_radius=5&locale=pt-br&date_format=j%20M%5B%20Y%5D)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=rovianvieceli&theme=prussian&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br" alt="status" width="430px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rovianvieceli&theme=prussian&border_radius=5&locale=pt-br&date_format=j%20M%5B%20Y%5D" alt="status" width="430px"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rovianvieceli&theme=prussian&&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&layout=compact&langs_count=8" alt="status" width="320px"/>
+</div>
 
 ### Contato
 
