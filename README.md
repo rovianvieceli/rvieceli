@@ -45,14 +45,13 @@ Tecnologias
 * Grupo Folha Manhã SP — Current
 
 ### Github
-<p> 
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?&username=rovianvieceli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="statics" style="height: 180px;"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rovianvieceli&layout=compact&langs_count=8&theme=algolia" alt="languages" style="height: 180px;"/>
-</p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rovianvieceli&layout=compact" alt="stats" style="height: 180px;"/>
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=rovianvieceli&theme=prussian&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rovianvieceli&theme=prussian&&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&layout=compact&langs_count=8)
+![Commits](https://github-readme-streak-stats.herokuapp.com?user=rovianvieceli&theme=prussian&border_radius=5&locale=pt-br&date_format=j%20M%5B%20Y%5D)
 
 ### Contato
 
-<a href="https://www.rovianvieceli.com"><img src="https://img.shields.io/badge/-rovianvieceli.com-3423A6?style=flat&logo=Firefox-Browser&logoColor=white"/>
-<a href="https://linkedin.com/in/rovian-vieceli"><img src="https://img.shields.io/badge/-Rovian%20Vieceli-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
-<a href="mailto:rovianvieceli@gmail.com"><img src="https://img.shields.io/badge/-rovianvieceli@gmail.com-D14836?style=flat&logo=Google&logoColor=white"/>
+[![Site](https://img.shields.io/badge/-rovianvieceli.com-3423A6?style=flat&logo=Firefox-Browser&logoColor=white)](https://www.rovianvieceli.com)
+[![Linkedin](https://img.shields.io/badge/-rovianvieceli.com-3423A6?style=flat&logo=Firefox-Browser&logoColor=white)](https://www.rovianvieceli.com)
+[![E-mail](https://img.shields.io/badge/-rovianvieceli@gmail.com-D14836?style=flat&logo=Google&logoColor=white)](mailto:rovianvieceli@gmail.com)
