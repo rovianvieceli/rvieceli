@@ -1,4 +1,4 @@
-👋 Olá! Sejam bem-vindos!
+👋 Olá!
 
 Sou Rovian e sou desenvolvedor aplicações ‘web’ com mais de 10 anos de experiência.
 
